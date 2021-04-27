@@ -2,9 +2,9 @@ name: Windows C/C++ CI git trig
 
 on:
   push:
-    branches: [ master ]
+    branches: [ helloworld ]
   pull_request:
-    branches: [ master ]
+    branches: [ helloworld ]
 
 jobs:
   build:
