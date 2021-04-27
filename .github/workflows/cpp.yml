@@ -1,4 +1,4 @@
-ame: cppcheck-action-test
+name: cppcheck-action-test
 on: [push]
 
 jobs:
