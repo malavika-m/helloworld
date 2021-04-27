@@ -1,0 +1,5 @@
+test.c:6:11: error: Uninitialized variable: i [uninitvar]
+if(strcmp(i,"hi")==0)
+          ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
+
