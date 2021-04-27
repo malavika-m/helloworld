@@ -2,9 +2,9 @@ name: Windows C/C++ CI git trig
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main2.yml ]
   pull_request:
-    branches: [ master ]
+    branches: [main2.yml ]
 
 jobs:
   build:
